@@ -44,4 +44,4 @@ end
 
 package 'lua-devel' do
   action :install
-end
+end if node['platform'] == 'debian'
