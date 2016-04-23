@@ -1,3 +1,8 @@
+#### This is `miketheman/nginx` cookbook fork
+> with `nginx::ngx_openresty` recipe for compile nginx with luajit and openresty libs
+
+
+
 nginx Cookbook
 ==============
 [![Cookbook](http://img.shields.io/cookbook/v/nginx.svg)](https://github.com/miketheman/nginx)
